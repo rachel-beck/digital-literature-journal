@@ -1,0 +1,7 @@
+### 9 March 2020
+
+## What I Learned Today
+
+# Python (Jupyter Notebook)
+- Can do math
+- 
